@@ -1,0 +1,26 @@
+{
+  "name": "@malsa/iconfont-plugin-webpack",
+  "version": "1.2.0",
+  "description": "Customised Iconfont Generator.",
+  "main": "index.js",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "iconfont"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shaitan-masters/custom-npm-libs"
+  },
+  "author": {
+    "name": "HaoyCn",
+    "email": "xuhaoyang@live.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fonteditor-core": "^2.1.5",
+    "run-plugin-webpack": "^1.0.0",
+    "svg2ttf": "^5.1.0",
+    "svgicons2svgfont": "^9.0.2"
+  }
+}
